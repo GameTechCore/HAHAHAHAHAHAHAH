@@ -1,0 +1,12 @@
+serial_no,name,quantity_available,quantity_sold
+1,InSane nVME 128GB 6GB/s,14,6
+2,InSane nVME 256GB 6GB/s,2,18
+3,InSane nVME 256GB 14GB/s,8,12
+4,InSane nVME 512GB 6GB/s,3,17
+5,InSane nVME 512GB 14GB/s,7,13
+6,InSane nVME 1TB 6GB/s,9,11
+7,InSane nVME 1TB 14GB/s,10,10
+8,InSane nVME 2TB 14GB/s,13,7
+9,InSane nVME 4TB 14GB/s,18,2
+10,InSane nVME 8TB 14GB/s,20,0
+11,1TB ssd,20,0

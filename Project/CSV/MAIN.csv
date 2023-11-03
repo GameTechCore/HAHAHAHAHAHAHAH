@@ -1,0 +1,8 @@
+serial_no,name,no_of_products,quantity_sold
+1,LAPTOP,8,130
+2,PROCESSOR,6,73
+3,GRAPHIC_CARD,8,90
+4,RAM,4,22
+5,SSD,11,96
+6,MOUSE,7,33
+7,KEYBOARD,9,23
